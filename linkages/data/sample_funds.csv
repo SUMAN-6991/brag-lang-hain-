@@ -1,6 +1,0 @@
-id,name,description,size,fund_type,vintage_year,managing_firm_id
-fund_001,BDT Infrastructure Partners,Infrastructure fund focused on energy transition,50000,Infrastructure,2021,firm_001
-fund_002,Blackstone Real Estate Partners,Real estate investment fund,80000,Real Estate,2020,firm_001
-fund_003,Apollo Asian Credit Fund,Credit fund investing in Asia,35000,Credit,2019,firm_002
-fund_004,Carlyle Global Infrastructure Fund,Infrastructure investments worldwide,65000,Infrastructure,2020,firm_003
-fund_005,KKR Asia Fund II,Private equity fund in Asia Pacific,45000,Private Equity,2021,firm_005

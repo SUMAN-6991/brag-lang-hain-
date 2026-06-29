@@ -1,6 +1,0 @@
-id,name,description,deal_type,deal_value,target_company,investing_fund_id
-deal_001,TowerBrook Infrastructure Investment,Infrastructure deal,Investment,5000,TowerBrook Ltd,fund_001
-deal_002,Pinnacle Towers Acquisition,Real estate acquisition,Acquisition,3500,Pinnacle Tower Corp,fund_002
-deal_003,Artemis Credit Portfolio,Credit investment,Investment,2800,Multiple Credits,fund_003
-deal_004,Green Energy Assets,Infrastructure investment,Investment,4200,Green Energy Ltd,fund_004
-deal_005,Asia Tech Investment,Private equity investment,Investment,1800,Asian Tech Firm,fund_005
