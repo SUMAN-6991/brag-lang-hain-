@@ -1,0 +1,6 @@
+id,name,description,service_category,specialization,service_areas
+provider_001,Goldman Sachs,Leading financial services firm,Advisory,M&A Advisory,Investment Banking
+provider_002,Freshfields Bruckhaus Deringer,International law firm,Legal,Corporate Law,Legal Services
+provider_003,Deloitte,Professional services firm,Audit,Financial Advisory,Accounting
+provider_004,PwC,Global accounting and advisory firm,Audit,Management Consulting,Professional Services
+provider_005,Kirkland & Ellis,White-collar law firm,Legal,Private Equity,Legal Services
